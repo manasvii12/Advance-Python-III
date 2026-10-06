@@ -1,0 +1,26 @@
+[
+    {
+        "Roll": 101,
+        "Name": "Amit",
+        "Branch": "CSE",
+        "Total Marks": 253,
+        "Percentage": 84.33,
+        "Grade": "A"
+    },
+    {
+        "Roll": 102,
+        "Name": "Sneha",
+        "Branch": "IT",
+        "Total Marks": 256,
+        "Percentage": 85.33,
+        "Grade": "A"
+    },
+    {
+        "Roll": 103,
+        "Name": "Rahul",
+        "Branch": "ECE",
+        "Total Marks": 215,
+        "Percentage": 71.67,
+        "Grade": "B"
+    }
+]
